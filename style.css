@@ -1,6 +1,6 @@
 html{height: 100%;
-    /* относительное позиционнирование */
-min-height:100%; /* минимальная высота */
+    /* Г®ГІГ­Г®Г±ГЁГІГҐГ«ГјГ­Г®ГҐ ГЇГ®Г§ГЁГ¶ГЁГ®Г­Г­ГЁГ°Г®ГўГ Г­ГЁГҐ */
+min-height:100%; /* Г¬ГЁГ­ГЁГ¬Г Г«ГјГ­Г Гї ГўГ»Г±Г®ГІГ  */
 line-height: 1.15; 
   -ms-text-size-adjust: 100%; 
   -webkit-text-size-adjust: 100%; 
@@ -13,7 +13,7 @@ height: 100%;
   margin: 0; 
   background: #f7f9fe;
   font-family: 'Open Sans', sans-serif;
-background: url("image/ФОТО.jpg");
+background: url("image/Р¤РћРўРћ.jpg");
 background-size: 100% 100%;}
 
 nav {
