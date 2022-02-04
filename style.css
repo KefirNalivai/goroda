@@ -376,5 +376,5 @@ left:50vw;
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300vw) {
-  .prev, .next,.text {font-size: 4vw}
+  .prev, .next,.text {font-size: 3.3vw; line-height:3.4vw}
 }
