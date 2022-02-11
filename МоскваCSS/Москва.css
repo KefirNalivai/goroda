@@ -58,7 +58,7 @@ nav ul {
   position: relative;
   margin-right: -4px;
   }
-.topmenu > li:last-child {border-right: 2px solid black;}
+.topmenu > li:last-child {}
 .topmenu > li > a {
   font-weight: bold;
   padding: 20px 90px;
