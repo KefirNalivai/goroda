@@ -121,7 +121,7 @@ arr.push(parseInt(arr111[i]));
 nowz = parseInt(localStorage.getItem("nows"));
 count=localStorage.getItem("counts");
 rezult=localStorage.getItem("rezults");
-document.getElementById('nomer').innerHTML = 'Вопрос номер '+ vopp;
+document.getElementById('nomer').innerHTML = 'Вопрос '+ vopp;
 	document.getElementById('vopros').innerHTML = questions[nowz].text;
 	document.getElementById('v11').innerHTML = questions[nowz].variants[0];
 	document.getElementById('v21').innerHTML = questions[nowz].variants[1];
@@ -137,7 +137,7 @@ else
 	arr.push(questions[rnd].id);
 	arrz=arrz+questions[rnd].id+",";
 	now = rnd;
-	document.getElementById('nomer').innerHTML = 'Вопрос номер '+ vopp;
+	document.getElementById('nomer').innerHTML = 'Вопрос '+ vopp;
 	document.getElementById('vopros').innerHTML = questions[rnd].text;
 	document.getElementById('v11').innerHTML = questions[rnd].variants[0];
 	document.getElementById('v21').innerHTML = questions[rnd].variants[1];
